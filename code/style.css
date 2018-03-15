@@ -1,1 +1,29 @@
+.page {
+	display: grid;
+	grid-template-columns: 1fr 5fr 1fr;
+	grid-template-rows: 1fr;
+}
 
+body{
+	margin: 0;
+}
+
+.sideleft{
+	grid-column: 1/2;
+	grid-row: 1/2;
+}
+
+.sideright{
+	grid-column: 3/4;
+	grid-row: 1/2;
+}
+
+.center {
+	grid-column: 2/3;
+	grid-row: 1/2;
+	background-color: green;
+	
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto auto auto;
+}
