@@ -1,4 +1,4 @@
-.page {
+.row {
 	display: grid;
 	grid-template-columns: 1fr 5fr 1fr;
 	grid-template-rows: 1fr;
@@ -13,17 +13,18 @@ body{
 	grid-row: 1/2;
 }
 
+.center {
+	grid-column: 2/3;
+	grid-row: 1/2;
+}
+
 .sideright{
 	grid-column: 3/4;
 	grid-row: 1/2;
 }
 
-.center {
-	grid-column: 2/3;
-	grid-row: 1/2;
-	background-color: green;
-	
-	display: grid;
-	grid-template-columns: 1fr;
-	grid-template-rows: auto auto auto;
+#pages .center {
+	border: 2px black solid;
+	border-radius: 0px 0px 8px 8px;
+	padding: 0px 2px 0px 2px;
 }
