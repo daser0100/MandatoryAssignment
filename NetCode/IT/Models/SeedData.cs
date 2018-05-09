@@ -19,22 +19,127 @@ namespace IT.Models
                     context.About.AddRange(
                          new About
                          {
-                             Section = "When Harry Met Sally"
+                             Section = "•  Smoking is not allowed in the kitchen."
                          },
 
                          new About
                          {
-                             Section = "He fell madly in love."
+                             Section = "•  He/she who has the weekly kitchen duty (currently written on the colorful paper on the door) has to:"
                          },
 
                          new About
                          {
-                             Section = "And he killed her..."
+                             Section = "  ◦  Take cardboard and glass from the hallway to the recycling containers at the parking lot."
                          },
 
                          new About
                          {
-                             Section = "The End!"
+                             Section = "  ◦  Wash the (dish) towels. (Put the amount on the shopping list)"
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Clean the microwave oven"
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Descale the kettle."
+                         },
+
+                         new About
+                         {
+                             Section = "•  When using the kitchen:"
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Never use metal tools on the pans since it ruins their surface."
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Do not apply cold water to warm pans since it bends them."
+                         },
+
+                         new About
+                         {
+                             Section = "•  After using the kitchen:"
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Clean the stove and the sink."
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Wipe of the tables."
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Clean whatever service you have used."
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Empty the bins if they are full or close to and dump them in the waste shaft."
+                         },
+
+                         new About
+                         {
+                             Section = "•  Accountings:"
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Please pay what you owe the Kitchen box."
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Bank transfers are preferred as the accountant can see your payment on his bank account, and this practically eliminates mistakes."
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Payments in cash are possible, but is usually only accepted for foreign students, who have a large fee on bank transfers."
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Instead of transferring money, you can also buy groceries etc."
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  A good advice is to setup an automatic monthly bank transfer, in that way you avoid getting i minus."
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  You can always contact the accountant if you have questions, complaints or wish to have profits repaid. "
+                         },
+
+                         new About
+                         {
+                             Section = "•  Shopping for the kitchen:"
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Remember to bring the receipt from the store."
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Either get a separate receipt for the kitchen stuff or somehow mark the stuff on the receipt."
+                         },
+
+                         new About
+                         {
+                             Section = "  ◦  Write your name on the receipt and put it in the envelope on the bulletin board."
                          }
                     );
                     context.SaveChanges();
