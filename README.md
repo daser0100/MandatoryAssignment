@@ -25,6 +25,6 @@ The "News" page contain a sign up form for signing up to a newsletter.
 ### Admin
 The "Admin" page can be reach by adding "/home/admin" to the URL.
 
-This page contains a link to the admin pages for the three other pages. At the admin pages for the other pages it is possible to add, remove or edit content of the pages.
+This page contains links to the admin pages for the three other pages. At the admin pages for the other pages it is possible to add, remove or edit content of the pages.
 
 ## How to run
