@@ -17,7 +17,7 @@ The website have 4 sites:
 The "About me" page is where the information about the kitchen can be found. As default the site has been seeded with agreements/guidelines for the kitchen. The content of the page can be edited at the "Admin" page. If the database that holds the informations is emptied, the database is automaticaly filled with the default information. 
 
 ### Gallery
-The "Gallery" page is suposed to be a place where pictures can be displayed. The page contain a lightbox like structure for showing the pictures. At the "Admin" page it is possible to add and remove pictures from the site.
+The "Gallery" page is suposed to be a place where pictures can be displayed. The page contain a lightbox like structure for showing the pictures. At the "Admin" page it is possible to add and remove pictures from the site. Pictures are added to the website by an URL.
 
 ### News
 The "News" page contain a sign up form for signing up to a newsletter. 
