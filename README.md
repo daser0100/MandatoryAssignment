@@ -7,6 +7,8 @@ Robot Systems, University of Southern Denmark
 ## Description of the project
 This is the repository for our mandatory assignment.
 
+The final project is in the "NetCode" folder. The "code" folder is some outdated code.
+
 The goal of the project is to make a website containing a personal perofolio with different information about us.
 
 We desided to make a website for a kichen at H. C. Kollegiet in Odense. At H. C. Kollegiet 15 apartments share a kitchen, so our website is a platform to organize and plan different thing for the members of the kitchen.
